@@ -25,4 +25,5 @@ Student | CS + Physics Nerd | Aspiring Game Dev | AI/ML Explorer
 ---
 
 ## Connect with me!**
--LinkedIn: [Divit](https://www.linkedin.com/in/divit-tasgaonkar/)
+- LinkedIn: [Divit](https://www.linkedin.com/in/divit-tasgaonkar/)
+---
