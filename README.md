@@ -24,6 +24,6 @@ Student | CS + Physics Nerd | Aspiring Game Dev | AI/ML Explorer
 - **Other:** Linux, Git, Burpsuite
 ---
 
-## Connect with me!**
+## Connect with me!
 - LinkedIn: [Divit](https://www.linkedin.com/in/divit-tasgaonkar/)
 ---
